@@ -1,0 +1,14 @@
+[
+	{
+		"id": 1,
+		"name": "Test1",
+		"top_up": 71,
+		"email_status": false
+	},
+	{
+		"id": 2,
+		"name": "Test2",
+		"top_up": 37,
+		"email_status": true
+	}
+]

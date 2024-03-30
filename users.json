@@ -1,0 +1,22 @@
+[
+	{
+		"id": 1,
+		"first_name": "BTest",
+		"last_name": "BTester",
+		"email": "btest.btester@test.com",
+		"company_id": 2,
+		"email_status": true,
+		"active_status": false,
+		"tokens": 23
+	},
+	{
+		"id": 2,
+		"first_name": "ATest",
+		"last_name": "ATester",
+		"email": "atest.atester@test.com",
+		"company_id": 1,
+		"email_status": false,
+		"active_status": true,
+		"tokens": 96
+	}
+]
